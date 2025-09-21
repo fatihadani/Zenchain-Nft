@@ -1,2 +1,17 @@
-# Zenchain-Nft
-ZenChain NFT Project - A blockchain project built on ZenChain for creating, deploying, and interacting with NFTs. Includes smart contracts, deployment scripts, and frontend.
+# ZenChain NFT Project
+
+This is a starter template for building an NFT dApp on ZenChain (Testnet).
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the app.
